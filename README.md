@@ -1,1 +1,1 @@
-# Nailia-Sa-adah
+# Python tipe data dan variabel
